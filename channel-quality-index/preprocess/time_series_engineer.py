@@ -24,5 +24,5 @@ risk_df.columns = ['retailer_id', 'risk_prediction_score']
 
 # Save
 risk_df.to_csv(os.path.join(PROCESSED_PATH, 'retailer_time_series.csv'), index=False)
-print("✅ retailer_time_series.csv created.")
+print("retailer_time_series.csv created.")
 
