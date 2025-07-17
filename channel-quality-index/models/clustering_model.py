@@ -16,7 +16,7 @@ df = pd.read_csv(os.path.join(MERGED_PATH, 'retailer_feature_matrix.csv'))
 # Keep retailer_id separately
 retailer_ids = df['retailer_id']
 
-# ✅ Cluster only on cqi_score
+#  Cluster only on cqi_score
 X = df[['cqi_score']].fillna(0)
 
 # Normalize
