@@ -34,4 +34,4 @@ df_fraud['fraud_score'] = (
 
 # Save to processed
 df_fraud.to_csv(os.path.join(PROCESSED_PATH, 'retailer_fraud_behavior.csv'), index=False)
-print("✅ retailer_fraud_behavior.csv created.")
+print("retailer_fraud_behavior.csv created.")
