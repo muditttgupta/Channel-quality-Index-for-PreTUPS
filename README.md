@@ -52,9 +52,6 @@ ChannelQualityIndex/
 │   ├── generate_revenue.py
 │   └── generate_retailers.py
 │
-├── merge/
-│   └── merge_all_features.py
-│
 ├── models/
 │   ├── clustering_model.py
 │   └── scoring_logic.py
