@@ -32,4 +32,4 @@ agg['performance_score'] = (
 
 # Save
 agg.to_csv(os.path.join(PROCESSED_PATH, 'retailer_performance.csv'), index=False)
-print("✅ retailer_performance.csv created.")
+print("retailer_performance.csv created.")
