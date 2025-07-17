@@ -24,7 +24,7 @@ def generate_sim_logs(num_retailers=100):
 
     df = pd.DataFrame(data)
     df.to_csv(os.path.join(RAW_PATH, "sim_logs.csv"), index=False)
-    print(f"✅ {len(df)} SIM logs generated.")
+    print(f" {len(df)} SIM logs generated.")
 
 if __name__ == "__main__":
     generate_sim_logs()
