@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+textblob
+nltk
+statsmodels
+prophet
+nbformat
+nbconvert
+nbclient
+jupyter
+vaderSentiment

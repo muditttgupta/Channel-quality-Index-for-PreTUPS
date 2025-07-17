@@ -1,0 +1,1001 @@
+retailer_id,feedback_text,rating
+R058,Recharge not received,5
+R087,Excellent service,1
+R039,Rude behavior,4
+R071,Excellent service,4
+R047,Average experience,3
+R075,Retailer overcharged,2
+R047,Retailer overcharged,1
+R081,Untrustworthy,2
+R013,Untrustworthy,4
+R057,Untrustworthy,5
+R057,Average experience,2
+R005,Slow response,2
+R064,Highly recommended,3
+R047,Untrustworthy,5
+R027,Fraudulent behavior,2
+R044,Untrustworthy,1
+R046,Excellent service,3
+R059,Fraudulent behavior,5
+R077,Very helpful,4
+R071,Slow response,3
+R066,Recharge not received,4
+R089,Retailer overcharged,5
+R048,Fraudulent behavior,5
+R035,Very helpful,3
+R021,Rude behavior,5
+R030,Highly recommended,4
+R076,Highly recommended,4
+R037,Fraudulent behavior,5
+R092,Untrustworthy,1
+R076,Retailer overcharged,3
+R013,Average experience,3
+R077,Very helpful,3
+R078,Slow response,1
+R053,Retailer overcharged,2
+R082,Retailer overcharged,2
+R057,Excellent service,3
+R036,Retailer overcharged,3
+R002,Average experience,4
+R090,Rude behavior,4
+R050,Retailer overcharged,2
+R040,Excellent service,3
+R019,Slow response,1
+R015,Recharge not received,5
+R027,Very helpful,3
+R025,Rude behavior,4
+R018,Slow response,2
+R094,Retailer overcharged,3
+R027,Rude behavior,2
+R002,Fraudulent behavior,5
+R018,Untrustworthy,3
+R084,Excellent service,5
+R068,Rude behavior,1
+R040,Highly recommended,4
+R016,Fraudulent behavior,3
+R098,Average experience,4
+R071,Very helpful,4
+R038,Fraudulent behavior,5
+R080,Highly recommended,1
+R036,Excellent service,2
+R097,Very helpful,3
+R078,Very helpful,2
+R017,Rude behavior,4
+R057,Average experience,2
+R065,Average experience,2
+R008,Slow response,2
+R045,Highly recommended,1
+R001,Highly recommended,2
+R041,Untrustworthy,1
+R065,Recharge not received,4
+R047,Fraudulent behavior,2
+R078,Slow response,1
+R036,Recharge not received,2
+R036,Rude behavior,5
+R025,Untrustworthy,3
+R088,Highly recommended,5
+R056,Retailer overcharged,3
+R015,Very helpful,2
+R026,Very helpful,2
+R100,Rude behavior,5
+R039,Very helpful,5
+R087,Excellent service,2
+R065,Slow response,4
+R054,Untrustworthy,5
+R028,Retailer overcharged,1
+R058,Rude behavior,3
+R044,Average experience,1
+R084,Rude behavior,5
+R053,Average experience,3
+R046,Highly recommended,5
+R050,Excellent service,2
+R080,Very helpful,5
+R070,Slow response,4
+R057,Very helpful,1
+R048,Very helpful,4
+R077,Recharge not received,2
+R081,Untrustworthy,4
+R056,Slow response,2
+R036,Rude behavior,3
+R088,Very helpful,4
+R040,Slow response,1
+R095,Rude behavior,2
+R085,Rude behavior,3
+R033,Fraudulent behavior,4
+R072,Average experience,5
+R083,Rude behavior,4
+R073,Highly recommended,2
+R001,Slow response,4
+R048,Very helpful,3
+R079,Fraudulent behavior,2
+R020,Fraudulent behavior,4
+R024,Slow response,2
+R006,Rude behavior,4
+R001,Rude behavior,1
+R055,Recharge not received,1
+R093,Recharge not received,4
+R034,Recharge not received,3
+R071,Slow response,1
+R081,Highly recommended,3
+R085,Retailer overcharged,2
+R008,Untrustworthy,1
+R058,Fraudulent behavior,5
+R054,Slow response,4
+R098,Fraudulent behavior,5
+R023,Average experience,1
+R047,Average experience,2
+R043,Rude behavior,2
+R034,Average experience,1
+R048,Fraudulent behavior,1
+R076,Rude behavior,4
+R079,Untrustworthy,2
+R009,Untrustworthy,3
+R022,Untrustworthy,4
+R028,Retailer overcharged,1
+R007,Slow response,1
+R027,Fraudulent behavior,4
+R091,Fraudulent behavior,1
+R090,Rude behavior,1
+R005,Slow response,4
+R089,Highly recommended,5
+R069,Slow response,5
+R031,Retailer overcharged,1
+R054,Recharge not received,4
+R074,Very helpful,2
+R048,Retailer overcharged,2
+R077,Highly recommended,2
+R097,Untrustworthy,4
+R083,Rude behavior,3
+R085,Excellent service,5
+R049,Very helpful,5
+R046,Highly recommended,4
+R092,Slow response,4
+R088,Recharge not received,5
+R060,Very helpful,2
+R009,Excellent service,1
+R088,Slow response,4
+R001,Retailer overcharged,2
+R007,Retailer overcharged,1
+R035,Fraudulent behavior,5
+R028,Average experience,2
+R045,Retailer overcharged,5
+R087,Recharge not received,1
+R069,Untrustworthy,1
+R096,Recharge not received,2
+R096,Recharge not received,5
+R087,Retailer overcharged,3
+R075,Excellent service,3
+R080,Excellent service,4
+R040,Untrustworthy,3
+R091,Average experience,3
+R089,Retailer overcharged,4
+R046,Recharge not received,3
+R012,Excellent service,5
+R089,Recharge not received,5
+R072,Very helpful,5
+R056,Slow response,1
+R010,Excellent service,3
+R072,Fraudulent behavior,2
+R052,Excellent service,1
+R048,Slow response,4
+R074,Fraudulent behavior,4
+R013,Untrustworthy,5
+R002,Rude behavior,2
+R027,Highly recommended,3
+R024,Rude behavior,4
+R064,Very helpful,5
+R008,Retailer overcharged,2
+R054,Slow response,5
+R059,Fraudulent behavior,3
+R094,Rude behavior,5
+R058,Recharge not received,5
+R075,Very helpful,5
+R046,Rude behavior,1
+R078,Retailer overcharged,3
+R075,Very helpful,4
+R019,Fraudulent behavior,1
+R095,Very helpful,5
+R019,Retailer overcharged,4
+R016,Fraudulent behavior,3
+R086,Untrustworthy,3
+R032,Average experience,3
+R023,Untrustworthy,2
+R035,Fraudulent behavior,2
+R050,Rude behavior,4
+R057,Average experience,5
+R095,Slow response,5
+R021,Very helpful,4
+R022,Recharge not received,3
+R029,Retailer overcharged,2
+R021,Fraudulent behavior,3
+R051,Rude behavior,4
+R019,Rude behavior,3
+R065,Average experience,4
+R015,Average experience,5
+R031,Excellent service,5
+R056,Slow response,3
+R086,Recharge not received,2
+R068,Recharge not received,2
+R016,Recharge not received,5
+R027,Untrustworthy,5
+R079,Excellent service,2
+R025,Highly recommended,4
+R018,Untrustworthy,3
+R056,Untrustworthy,1
+R077,Average experience,3
+R028,Very helpful,4
+R002,Untrustworthy,4
+R019,Highly recommended,1
+R068,Recharge not received,2
+R047,Retailer overcharged,2
+R086,Average experience,3
+R069,Excellent service,3
+R051,Rude behavior,3
+R026,Average experience,3
+R035,Slow response,3
+R014,Retailer overcharged,4
+R059,Very helpful,5
+R091,Retailer overcharged,2
+R003,Highly recommended,2
+R089,Very helpful,4
+R022,Retailer overcharged,1
+R062,Rude behavior,5
+R064,Fraudulent behavior,1
+R006,Fraudulent behavior,3
+R011,Very helpful,1
+R048,Slow response,5
+R030,Average experience,3
+R060,Average experience,4
+R032,Rude behavior,3
+R084,Very helpful,1
+R055,Recharge not received,1
+R042,Highly recommended,1
+R057,Rude behavior,2
+R043,Untrustworthy,3
+R030,Recharge not received,1
+R025,Average experience,2
+R088,Excellent service,4
+R029,Fraudulent behavior,2
+R061,Untrustworthy,2
+R046,Very helpful,3
+R003,Average experience,3
+R100,Untrustworthy,4
+R007,Retailer overcharged,5
+R037,Untrustworthy,3
+R030,Retailer overcharged,4
+R026,Retailer overcharged,4
+R057,Slow response,3
+R057,Excellent service,2
+R092,Untrustworthy,4
+R095,Recharge not received,3
+R030,Average experience,3
+R066,Average experience,2
+R087,Fraudulent behavior,3
+R092,Untrustworthy,5
+R048,Excellent service,4
+R068,Average experience,3
+R018,Untrustworthy,2
+R053,Slow response,2
+R072,Very helpful,4
+R079,Untrustworthy,5
+R084,Untrustworthy,2
+R025,Average experience,1
+R036,Recharge not received,3
+R098,Highly recommended,5
+R049,Recharge not received,5
+R056,Average experience,5
+R040,Very helpful,1
+R093,Retailer overcharged,3
+R074,Recharge not received,4
+R035,Highly recommended,1
+R088,Very helpful,3
+R001,Retailer overcharged,3
+R033,Excellent service,2
+R097,Average experience,1
+R032,Highly recommended,5
+R100,Recharge not received,2
+R018,Retailer overcharged,4
+R070,Rude behavior,1
+R021,Highly recommended,2
+R043,Rude behavior,2
+R027,Retailer overcharged,2
+R061,Rude behavior,1
+R056,Average experience,5
+R043,Highly recommended,2
+R049,Recharge not received,4
+R015,Average experience,4
+R054,Highly recommended,3
+R030,Retailer overcharged,3
+R089,Excellent service,4
+R014,Highly recommended,3
+R041,Highly recommended,1
+R023,Very helpful,3
+R013,Highly recommended,4
+R093,Slow response,4
+R095,Retailer overcharged,2
+R014,Excellent service,2
+R082,Very helpful,5
+R014,Rude behavior,3
+R015,Slow response,2
+R052,Rude behavior,5
+R097,Highly recommended,1
+R078,Recharge not received,1
+R013,Rude behavior,2
+R097,Excellent service,2
+R062,Untrustworthy,4
+R033,Slow response,5
+R038,Very helpful,2
+R060,Recharge not received,1
+R043,Highly recommended,4
+R053,Fraudulent behavior,2
+R014,Untrustworthy,5
+R032,Recharge not received,4
+R018,Fraudulent behavior,5
+R075,Recharge not received,5
+R040,Average experience,2
+R024,Rude behavior,3
+R031,Fraudulent behavior,1
+R023,Excellent service,2
+R036,Excellent service,1
+R029,Very helpful,5
+R096,Excellent service,2
+R042,Retailer overcharged,5
+R029,Fraudulent behavior,2
+R013,Slow response,5
+R075,Recharge not received,3
+R028,Slow response,4
+R046,Highly recommended,4
+R003,Excellent service,3
+R074,Retailer overcharged,5
+R056,Recharge not received,3
+R037,Slow response,4
+R018,Average experience,2
+R039,Rude behavior,1
+R079,Average experience,1
+R004,Untrustworthy,5
+R091,Excellent service,2
+R015,Very helpful,3
+R016,Excellent service,3
+R064,Slow response,1
+R035,Rude behavior,5
+R016,Recharge not received,1
+R078,Excellent service,1
+R001,Excellent service,3
+R001,Rude behavior,5
+R037,Average experience,1
+R082,Highly recommended,5
+R100,Average experience,1
+R096,Recharge not received,1
+R060,Average experience,4
+R026,Untrustworthy,1
+R044,Retailer overcharged,4
+R014,Average experience,5
+R077,Very helpful,1
+R097,Slow response,5
+R096,Untrustworthy,4
+R039,Average experience,5
+R018,Very helpful,3
+R038,Very helpful,1
+R029,Rude behavior,2
+R070,Highly recommended,4
+R035,Retailer overcharged,1
+R094,Slow response,1
+R043,Rude behavior,4
+R064,Slow response,4
+R070,Untrustworthy,2
+R011,Fraudulent behavior,2
+R039,Fraudulent behavior,2
+R037,Slow response,3
+R040,Untrustworthy,1
+R067,Retailer overcharged,5
+R010,Slow response,3
+R040,Slow response,4
+R052,Recharge not received,3
+R075,Average experience,3
+R024,Very helpful,3
+R079,Excellent service,5
+R067,Excellent service,1
+R019,Retailer overcharged,1
+R086,Slow response,3
+R036,Untrustworthy,3
+R049,Rude behavior,2
+R056,Recharge not received,3
+R072,Highly recommended,5
+R004,Untrustworthy,2
+R096,Recharge not received,3
+R035,Retailer overcharged,2
+R076,Retailer overcharged,4
+R042,Excellent service,4
+R062,Average experience,5
+R002,Excellent service,3
+R004,Slow response,2
+R043,Retailer overcharged,4
+R015,Retailer overcharged,4
+R041,Excellent service,5
+R035,Very helpful,3
+R038,Average experience,3
+R093,Average experience,5
+R065,Retailer overcharged,3
+R039,Average experience,2
+R002,Average experience,1
+R047,Highly recommended,3
+R036,Excellent service,3
+R064,Highly recommended,2
+R075,Untrustworthy,2
+R051,Highly recommended,2
+R053,Rude behavior,5
+R016,Slow response,4
+R019,Retailer overcharged,2
+R081,Untrustworthy,1
+R056,Retailer overcharged,2
+R070,Recharge not received,3
+R072,Untrustworthy,4
+R026,Untrustworthy,4
+R100,Fraudulent behavior,3
+R100,Average experience,5
+R080,Slow response,5
+R023,Recharge not received,1
+R033,Untrustworthy,5
+R030,Excellent service,4
+R079,Average experience,3
+R008,Rude behavior,2
+R099,Rude behavior,1
+R011,Fraudulent behavior,3
+R082,Excellent service,5
+R001,Untrustworthy,2
+R076,Excellent service,4
+R005,Highly recommended,4
+R001,Excellent service,2
+R051,Fraudulent behavior,5
+R094,Slow response,4
+R082,Average experience,3
+R035,Retailer overcharged,3
+R038,Untrustworthy,3
+R065,Retailer overcharged,1
+R064,Average experience,3
+R052,Fraudulent behavior,1
+R090,Rude behavior,5
+R036,Fraudulent behavior,5
+R076,Recharge not received,3
+R084,Retailer overcharged,1
+R042,Average experience,2
+R025,Retailer overcharged,3
+R067,Excellent service,1
+R100,Retailer overcharged,5
+R012,Fraudulent behavior,1
+R086,Highly recommended,4
+R086,Average experience,2
+R096,Very helpful,5
+R037,Excellent service,1
+R019,Retailer overcharged,2
+R082,Very helpful,5
+R005,Highly recommended,1
+R095,Slow response,3
+R001,Slow response,3
+R091,Untrustworthy,2
+R004,Retailer overcharged,3
+R047,Untrustworthy,3
+R037,Untrustworthy,3
+R098,Fraudulent behavior,5
+R005,Untrustworthy,2
+R085,Retailer overcharged,2
+R001,Retailer overcharged,3
+R067,Excellent service,1
+R027,Average experience,1
+R055,Untrustworthy,5
+R079,Untrustworthy,2
+R070,Average experience,4
+R047,Rude behavior,5
+R092,Average experience,3
+R030,Average experience,1
+R082,Very helpful,2
+R018,Recharge not received,1
+R091,Rude behavior,1
+R017,Fraudulent behavior,5
+R039,Average experience,5
+R083,Fraudulent behavior,2
+R065,Highly recommended,5
+R059,Fraudulent behavior,1
+R057,Rude behavior,2
+R097,Rude behavior,4
+R021,Very helpful,5
+R014,Slow response,5
+R089,Fraudulent behavior,3
+R005,Very helpful,3
+R100,Excellent service,1
+R028,Highly recommended,5
+R087,Excellent service,4
+R062,Retailer overcharged,3
+R089,Fraudulent behavior,4
+R091,Untrustworthy,2
+R036,Recharge not received,5
+R017,Average experience,2
+R033,Untrustworthy,4
+R091,Very helpful,5
+R026,Slow response,3
+R012,Retailer overcharged,5
+R081,Retailer overcharged,2
+R015,Excellent service,2
+R032,Fraudulent behavior,2
+R092,Slow response,3
+R033,Retailer overcharged,3
+R029,Untrustworthy,4
+R017,Rude behavior,4
+R062,Rude behavior,1
+R016,Slow response,2
+R068,Highly recommended,2
+R039,Rude behavior,5
+R046,Fraudulent behavior,5
+R081,Average experience,2
+R044,Very helpful,1
+R042,Excellent service,3
+R065,Average experience,3
+R079,Very helpful,4
+R005,Recharge not received,1
+R082,Retailer overcharged,3
+R006,Recharge not received,5
+R007,Highly recommended,5
+R099,Highly recommended,5
+R012,Excellent service,2
+R097,Highly recommended,3
+R020,Untrustworthy,5
+R012,Average experience,1
+R040,Retailer overcharged,5
+R069,Average experience,1
+R074,Highly recommended,3
+R047,Recharge not received,1
+R011,Retailer overcharged,4
+R076,Untrustworthy,4
+R052,Highly recommended,3
+R081,Highly recommended,2
+R056,Highly recommended,4
+R052,Highly recommended,3
+R029,Slow response,3
+R006,Rude behavior,1
+R044,Slow response,2
+R084,Retailer overcharged,2
+R028,Highly recommended,3
+R023,Highly recommended,1
+R088,Slow response,4
+R064,Rude behavior,1
+R067,Excellent service,5
+R038,Recharge not received,2
+R069,Very helpful,2
+R091,Recharge not received,2
+R032,Highly recommended,2
+R038,Excellent service,1
+R088,Very helpful,4
+R047,Retailer overcharged,4
+R039,Untrustworthy,3
+R056,Very helpful,5
+R062,Highly recommended,3
+R031,Average experience,2
+R009,Very helpful,1
+R011,Recharge not received,2
+R079,Very helpful,2
+R091,Recharge not received,2
+R075,Slow response,1
+R098,Highly recommended,3
+R081,Excellent service,3
+R031,Recharge not received,3
+R028,Average experience,5
+R017,Highly recommended,5
+R045,Untrustworthy,4
+R054,Untrustworthy,4
+R018,Average experience,1
+R082,Fraudulent behavior,5
+R014,Excellent service,5
+R026,Highly recommended,4
+R089,Fraudulent behavior,4
+R013,Average experience,1
+R079,Very helpful,2
+R006,Untrustworthy,1
+R012,Excellent service,5
+R023,Fraudulent behavior,5
+R097,Highly recommended,1
+R100,Average experience,5
+R059,Retailer overcharged,4
+R025,Highly recommended,4
+R053,Slow response,3
+R097,Very helpful,1
+R100,Fraudulent behavior,4
+R079,Rude behavior,5
+R028,Slow response,1
+R089,Rude behavior,3
+R051,Untrustworthy,1
+R078,Untrustworthy,4
+R045,Highly recommended,5
+R053,Very helpful,1
+R011,Rude behavior,3
+R047,Highly recommended,3
+R041,Rude behavior,4
+R042,Very helpful,3
+R019,Slow response,5
+R079,Recharge not received,2
+R070,Highly recommended,2
+R047,Fraudulent behavior,3
+R029,Recharge not received,4
+R055,Very helpful,5
+R027,Highly recommended,3
+R048,Retailer overcharged,3
+R077,Rude behavior,2
+R004,Fraudulent behavior,2
+R047,Fraudulent behavior,1
+R062,Rude behavior,3
+R076,Untrustworthy,2
+R024,Retailer overcharged,1
+R044,Average experience,5
+R007,Rude behavior,5
+R021,Average experience,4
+R056,Excellent service,5
+R094,Slow response,5
+R064,Average experience,1
+R067,Untrustworthy,1
+R057,Slow response,5
+R019,Rude behavior,1
+R065,Slow response,3
+R084,Excellent service,3
+R097,Very helpful,1
+R049,Very helpful,4
+R025,Retailer overcharged,4
+R024,Untrustworthy,2
+R075,Rude behavior,2
+R096,Very helpful,3
+R097,Fraudulent behavior,3
+R020,Average experience,1
+R046,Rude behavior,4
+R056,Very helpful,1
+R063,Retailer overcharged,2
+R001,Fraudulent behavior,4
+R056,Retailer overcharged,3
+R017,Average experience,4
+R053,Retailer overcharged,1
+R012,Fraudulent behavior,2
+R039,Recharge not received,1
+R038,Retailer overcharged,5
+R054,Recharge not received,1
+R047,Retailer overcharged,2
+R019,Rude behavior,2
+R021,Rude behavior,4
+R030,Average experience,3
+R018,Rude behavior,2
+R036,Fraudulent behavior,3
+R058,Fraudulent behavior,1
+R043,Average experience,1
+R090,Very helpful,2
+R085,Fraudulent behavior,4
+R012,Average experience,2
+R077,Rude behavior,1
+R068,Recharge not received,2
+R035,Retailer overcharged,2
+R058,Fraudulent behavior,4
+R034,Highly recommended,2
+R094,Slow response,2
+R092,Slow response,1
+R032,Excellent service,5
+R036,Recharge not received,4
+R053,Untrustworthy,5
+R039,Highly recommended,4
+R019,Recharge not received,2
+R080,Rude behavior,2
+R024,Very helpful,2
+R071,Very helpful,5
+R034,Retailer overcharged,1
+R007,Very helpful,4
+R083,Retailer overcharged,4
+R023,Very helpful,4
+R036,Retailer overcharged,5
+R051,Untrustworthy,1
+R044,Rude behavior,4
+R076,Retailer overcharged,3
+R090,Average experience,4
+R004,Excellent service,4
+R041,Recharge not received,2
+R081,Rude behavior,3
+R037,Fraudulent behavior,3
+R097,Slow response,4
+R073,Excellent service,2
+R040,Recharge not received,5
+R046,Very helpful,5
+R002,Fraudulent behavior,3
+R041,Fraudulent behavior,2
+R003,Slow response,2
+R039,Highly recommended,3
+R072,Excellent service,3
+R010,Highly recommended,1
+R026,Slow response,5
+R096,Excellent service,3
+R098,Slow response,5
+R054,Retailer overcharged,5
+R080,Highly recommended,5
+R016,Excellent service,3
+R041,Recharge not received,3
+R078,Retailer overcharged,1
+R054,Very helpful,1
+R092,Very helpful,4
+R081,Recharge not received,5
+R098,Untrustworthy,2
+R073,Rude behavior,2
+R094,Excellent service,5
+R057,Untrustworthy,5
+R055,Highly recommended,3
+R090,Average experience,5
+R026,Excellent service,1
+R036,Rude behavior,5
+R012,Recharge not received,5
+R004,Recharge not received,1
+R092,Fraudulent behavior,2
+R086,Excellent service,5
+R053,Retailer overcharged,5
+R098,Retailer overcharged,3
+R065,Excellent service,3
+R031,Fraudulent behavior,3
+R079,Recharge not received,5
+R009,Highly recommended,3
+R076,Very helpful,3
+R068,Slow response,5
+R048,Retailer overcharged,3
+R100,Average experience,3
+R010,Slow response,3
+R030,Untrustworthy,2
+R027,Very helpful,3
+R055,Retailer overcharged,5
+R045,Recharge not received,4
+R098,Very helpful,5
+R035,Excellent service,5
+R003,Very helpful,3
+R016,Average experience,1
+R053,Very helpful,3
+R051,Fraudulent behavior,5
+R033,Average experience,3
+R073,Rude behavior,5
+R018,Rude behavior,2
+R018,Recharge not received,2
+R042,Rude behavior,4
+R016,Slow response,5
+R007,Average experience,4
+R025,Retailer overcharged,4
+R046,Rude behavior,4
+R001,Untrustworthy,1
+R014,Average experience,4
+R060,Average experience,1
+R057,Slow response,2
+R066,Highly recommended,3
+R068,Average experience,4
+R086,Excellent service,1
+R022,Slow response,3
+R016,Average experience,3
+R095,Excellent service,2
+R092,Recharge not received,1
+R028,Excellent service,2
+R012,Retailer overcharged,2
+R070,Highly recommended,5
+R002,Recharge not received,2
+R075,Slow response,1
+R078,Rude behavior,5
+R067,Highly recommended,5
+R045,Untrustworthy,5
+R080,Untrustworthy,2
+R091,Fraudulent behavior,3
+R053,Excellent service,4
+R069,Recharge not received,1
+R079,Excellent service,2
+R050,Retailer overcharged,3
+R042,Retailer overcharged,1
+R018,Slow response,5
+R051,Rude behavior,1
+R003,Untrustworthy,2
+R065,Excellent service,4
+R085,Fraudulent behavior,4
+R037,Highly recommended,3
+R022,Highly recommended,3
+R062,Average experience,3
+R033,Average experience,4
+R066,Highly recommended,5
+R098,Rude behavior,5
+R033,Rude behavior,1
+R042,Fraudulent behavior,2
+R059,Recharge not received,2
+R021,Recharge not received,1
+R048,Average experience,3
+R039,Fraudulent behavior,3
+R045,Highly recommended,4
+R099,Recharge not received,4
+R025,Excellent service,4
+R017,Recharge not received,4
+R078,Retailer overcharged,4
+R082,Excellent service,3
+R019,Excellent service,5
+R001,Untrustworthy,1
+R015,Slow response,1
+R041,Very helpful,1
+R085,Fraudulent behavior,2
+R061,Fraudulent behavior,1
+R027,Rude behavior,3
+R063,Recharge not received,4
+R021,Slow response,2
+R077,Excellent service,3
+R063,Untrustworthy,1
+R029,Slow response,4
+R100,Slow response,2
+R046,Retailer overcharged,5
+R024,Fraudulent behavior,4
+R094,Recharge not received,1
+R080,Slow response,3
+R080,Untrustworthy,3
+R090,Very helpful,1
+R092,Untrustworthy,2
+R071,Untrustworthy,3
+R094,Highly recommended,4
+R034,Untrustworthy,2
+R046,Untrustworthy,5
+R020,Rude behavior,5
+R008,Recharge not received,4
+R002,Slow response,5
+R042,Highly recommended,4
+R054,Recharge not received,2
+R012,Recharge not received,4
+R067,Recharge not received,5
+R053,Retailer overcharged,5
+R054,Average experience,5
+R082,Untrustworthy,3
+R017,Recharge not received,3
+R062,Average experience,4
+R040,Average experience,2
+R057,Recharge not received,1
+R092,Untrustworthy,1
+R066,Fraudulent behavior,3
+R019,Average experience,5
+R067,Fraudulent behavior,3
+R100,Fraudulent behavior,1
+R051,Recharge not received,4
+R058,Untrustworthy,1
+R100,Slow response,3
+R063,Retailer overcharged,2
+R029,Recharge not received,1
+R013,Average experience,1
+R008,Retailer overcharged,4
+R035,Rude behavior,2
+R054,Slow response,1
+R057,Slow response,4
+R052,Fraudulent behavior,5
+R029,Fraudulent behavior,3
+R077,Untrustworthy,5
+R002,Fraudulent behavior,1
+R007,Highly recommended,2
+R035,Rude behavior,3
+R072,Untrustworthy,2
+R063,Retailer overcharged,1
+R057,Slow response,3
+R054,Retailer overcharged,4
+R100,Rude behavior,1
+R086,Slow response,2
+R054,Very helpful,2
+R015,Rude behavior,4
+R096,Very helpful,3
+R066,Retailer overcharged,5
+R042,Retailer overcharged,5
+R015,Untrustworthy,3
+R028,Rude behavior,1
+R083,Untrustworthy,3
+R010,Slow response,5
+R031,Highly recommended,3
+R074,Highly recommended,1
+R092,Highly recommended,1
+R062,Very helpful,5
+R078,Fraudulent behavior,1
+R034,Fraudulent behavior,2
+R083,Highly recommended,3
+R076,Very helpful,1
+R073,Excellent service,1
+R011,Average experience,1
+R068,Fraudulent behavior,2
+R084,Recharge not received,4
+R075,Recharge not received,3
+R074,Retailer overcharged,4
+R072,Retailer overcharged,4
+R010,Rude behavior,4
+R061,Excellent service,4
+R017,Highly recommended,4
+R094,Rude behavior,1
+R088,Recharge not received,3
+R100,Fraudulent behavior,1
+R097,Retailer overcharged,1
+R078,Recharge not received,1
+R021,Recharge not received,5
+R071,Retailer overcharged,1
+R069,Retailer overcharged,2
+R088,Recharge not received,3
+R070,Fraudulent behavior,3
+R053,Untrustworthy,2
+R029,Excellent service,3
+R066,Untrustworthy,5
+R073,Average experience,1
+R057,Highly recommended,3
+R079,Recharge not received,2
+R044,Very helpful,4
+R047,Very helpful,2
+R058,Average experience,2
+R024,Average experience,4
+R097,Untrustworthy,1
+R090,Rude behavior,3
+R019,Highly recommended,1
+R003,Rude behavior,5
+R100,Untrustworthy,2
+R022,Average experience,1
+R004,Slow response,5
+R042,Fraudulent behavior,4
+R049,Highly recommended,1
+R072,Rude behavior,1
+R063,Retailer overcharged,1
+R063,Slow response,2
+R050,Excellent service,1
+R024,Slow response,3
+R059,Excellent service,3
+R047,Fraudulent behavior,4
+R091,Recharge not received,2
+R034,Rude behavior,1
+R080,Rude behavior,4
+R011,Slow response,4
+R023,Very helpful,1
+R081,Very helpful,2
+R051,Excellent service,3
+R001,Rude behavior,1
+R084,Very helpful,3
+R002,Average experience,3
+R049,Untrustworthy,2
+R017,Recharge not received,2
+R084,Untrustworthy,3
+R083,Recharge not received,2
+R084,Retailer overcharged,4
+R054,Highly recommended,1
+R041,Highly recommended,2
+R007,Highly recommended,5
+R084,Average experience,5
+R045,Retailer overcharged,5
+R081,Retailer overcharged,3
+R005,Fraudulent behavior,4
+R013,Slow response,1
+R003,Average experience,3
+R003,Average experience,5
+R065,Retailer overcharged,5
+R075,Fraudulent behavior,4
+R036,Untrustworthy,2
+R044,Excellent service,1
+R021,Highly recommended,4
+R031,Recharge not received,3
+R004,Excellent service,3
+R005,Retailer overcharged,1
+R090,Highly recommended,4
+R100,Untrustworthy,4
+R072,Recharge not received,2
+R059,Highly recommended,2
+R097,Excellent service,1
+R051,Untrustworthy,5
+R019,Highly recommended,1
+R007,Recharge not received,3
+R050,Excellent service,3
+R020,Fraudulent behavior,4
+R010,Untrustworthy,5
+R076,Average experience,3
+R031,Fraudulent behavior,5
+R099,Slow response,1
+R066,Average experience,5
+R073,Very helpful,2
+R085,Retailer overcharged,1
+R073,Very helpful,1
+R026,Average experience,5
+R074,Highly recommended,4
+R001,Excellent service,2
+R064,Excellent service,1
+R012,Excellent service,4
+R077,Highly recommended,2
+R057,Recharge not received,3
+R093,Fraudulent behavior,2
+R012,Recharge not received,4
+R033,Highly recommended,3
+R001,Highly recommended,3
+R044,Excellent service,2
+R016,Very helpful,1
+R060,Excellent service,4
+R028,Rude behavior,1

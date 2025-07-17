@@ -1,0 +1,1001 @@
+retailer_id,complaint_type,date
+R016,Incorrect Recharge,2025-06-27
+R026,Delay,2025-06-19
+R004,Rude Behavior,2025-06-25
+R043,Rude Behavior,2025-07-13
+R064,Service Denial,2025-07-14
+R094,Service Denial,2025-07-04
+R070,Service Denial,2025-07-06
+R039,Incorrect Recharge,2025-07-07
+R061,Fraud,2025-06-19
+R044,Incorrect Recharge,2025-06-18
+R060,Delay,2025-06-27
+R019,Rude Behavior,2025-06-16
+R032,Incorrect Recharge,2025-06-20
+R043,Delay,2025-06-28
+R034,Fraud,2025-06-15
+R014,Fraud,2025-06-14
+R029,Rude Behavior,2025-07-07
+R045,Service Denial,2025-06-18
+R074,Rude Behavior,2025-07-14
+R053,Service Denial,2025-07-09
+R033,Incorrect Recharge,2025-07-02
+R040,Rude Behavior,2025-07-07
+R067,Rude Behavior,2025-06-26
+R020,Service Denial,2025-07-13
+R071,Incorrect Recharge,2025-06-28
+R055,Delay,2025-07-06
+R065,Fraud,2025-06-15
+R006,Delay,2025-07-12
+R070,Fraud,2025-07-09
+R047,Delay,2025-06-14
+R010,Incorrect Recharge,2025-06-23
+R099,Service Denial,2025-07-05
+R049,Incorrect Recharge,2025-06-29
+R066,Service Denial,2025-06-22
+R036,Fraud,2025-07-11
+R082,Rude Behavior,2025-07-10
+R033,Service Denial,2025-06-17
+R022,Rude Behavior,2025-06-23
+R021,Delay,2025-07-03
+R004,Rude Behavior,2025-07-03
+R019,Incorrect Recharge,2025-07-10
+R005,Incorrect Recharge,2025-07-01
+R061,Delay,2025-07-05
+R063,Service Denial,2025-07-11
+R006,Delay,2025-06-22
+R099,Service Denial,2025-07-11
+R048,Delay,2025-06-19
+R083,Delay,2025-06-28
+R057,Incorrect Recharge,2025-07-14
+R074,Service Denial,2025-06-23
+R021,Incorrect Recharge,2025-06-27
+R048,Service Denial,2025-07-14
+R070,Incorrect Recharge,2025-07-10
+R023,Delay,2025-06-27
+R062,Service Denial,2025-06-21
+R017,Fraud,2025-07-05
+R045,Service Denial,2025-06-20
+R094,Incorrect Recharge,2025-06-23
+R081,Incorrect Recharge,2025-07-05
+R086,Incorrect Recharge,2025-06-17
+R091,Rude Behavior,2025-07-02
+R093,Fraud,2025-06-22
+R034,Rude Behavior,2025-06-29
+R028,Fraud,2025-07-08
+R055,Fraud,2025-06-18
+R013,Service Denial,2025-06-27
+R005,Incorrect Recharge,2025-07-11
+R063,Fraud,2025-06-19
+R044,Delay,2025-06-26
+R087,Service Denial,2025-07-04
+R017,Delay,2025-07-02
+R037,Rude Behavior,2025-07-02
+R077,Service Denial,2025-06-28
+R055,Fraud,2025-06-29
+R052,Delay,2025-06-22
+R089,Service Denial,2025-07-06
+R085,Rude Behavior,2025-06-18
+R082,Service Denial,2025-07-06
+R056,Fraud,2025-07-10
+R099,Service Denial,2025-07-11
+R054,Rude Behavior,2025-06-15
+R045,Rude Behavior,2025-06-28
+R099,Delay,2025-07-11
+R024,Delay,2025-07-07
+R011,Incorrect Recharge,2025-07-14
+R038,Fraud,2025-06-25
+R090,Delay,2025-07-14
+R057,Incorrect Recharge,2025-07-12
+R079,Delay,2025-07-14
+R031,Delay,2025-06-19
+R014,Incorrect Recharge,2025-07-14
+R090,Delay,2025-06-19
+R003,Rude Behavior,2025-06-26
+R091,Delay,2025-06-29
+R093,Incorrect Recharge,2025-07-05
+R022,Service Denial,2025-07-11
+R045,Fraud,2025-06-17
+R045,Fraud,2025-07-07
+R021,Incorrect Recharge,2025-07-05
+R059,Delay,2025-07-03
+R020,Delay,2025-06-15
+R062,Fraud,2025-06-28
+R086,Fraud,2025-07-09
+R057,Rude Behavior,2025-06-29
+R069,Delay,2025-06-16
+R094,Incorrect Recharge,2025-06-27
+R052,Rude Behavior,2025-07-10
+R100,Service Denial,2025-07-02
+R036,Rude Behavior,2025-07-07
+R096,Service Denial,2025-07-02
+R025,Delay,2025-06-27
+R047,Fraud,2025-07-10
+R098,Rude Behavior,2025-06-26
+R043,Fraud,2025-06-15
+R008,Service Denial,2025-06-15
+R048,Incorrect Recharge,2025-07-14
+R016,Delay,2025-06-18
+R094,Incorrect Recharge,2025-06-19
+R099,Rude Behavior,2025-06-25
+R032,Delay,2025-07-03
+R097,Service Denial,2025-06-19
+R076,Delay,2025-06-30
+R061,Delay,2025-07-12
+R011,Delay,2025-06-24
+R051,Fraud,2025-07-09
+R056,Fraud,2025-06-27
+R051,Service Denial,2025-07-11
+R084,Incorrect Recharge,2025-06-27
+R066,Delay,2025-06-15
+R037,Rude Behavior,2025-07-07
+R032,Service Denial,2025-07-07
+R039,Service Denial,2025-07-04
+R020,Rude Behavior,2025-06-15
+R003,Fraud,2025-07-08
+R034,Delay,2025-06-17
+R032,Delay,2025-06-23
+R074,Incorrect Recharge,2025-07-11
+R057,Delay,2025-07-09
+R056,Incorrect Recharge,2025-06-15
+R004,Service Denial,2025-06-29
+R016,Fraud,2025-06-26
+R068,Incorrect Recharge,2025-07-13
+R027,Delay,2025-07-06
+R097,Incorrect Recharge,2025-07-05
+R008,Service Denial,2025-07-13
+R048,Service Denial,2025-07-02
+R098,Rude Behavior,2025-07-10
+R008,Fraud,2025-06-26
+R007,Service Denial,2025-06-25
+R033,Incorrect Recharge,2025-07-06
+R069,Incorrect Recharge,2025-06-15
+R089,Delay,2025-06-30
+R053,Incorrect Recharge,2025-07-07
+R095,Service Denial,2025-07-06
+R056,Fraud,2025-06-20
+R098,Rude Behavior,2025-07-07
+R029,Fraud,2025-06-21
+R034,Incorrect Recharge,2025-07-10
+R006,Service Denial,2025-06-21
+R041,Fraud,2025-07-13
+R083,Rude Behavior,2025-06-14
+R024,Incorrect Recharge,2025-07-04
+R056,Service Denial,2025-07-03
+R039,Service Denial,2025-07-12
+R048,Rude Behavior,2025-06-28
+R041,Incorrect Recharge,2025-07-06
+R050,Rude Behavior,2025-06-15
+R082,Rude Behavior,2025-07-06
+R100,Delay,2025-06-27
+R073,Fraud,2025-07-09
+R062,Rude Behavior,2025-07-10
+R015,Delay,2025-06-29
+R088,Fraud,2025-06-14
+R011,Incorrect Recharge,2025-07-08
+R043,Service Denial,2025-07-10
+R094,Rude Behavior,2025-07-11
+R069,Incorrect Recharge,2025-07-07
+R050,Incorrect Recharge,2025-06-24
+R052,Incorrect Recharge,2025-07-14
+R006,Rude Behavior,2025-07-04
+R065,Rude Behavior,2025-07-10
+R076,Rude Behavior,2025-06-18
+R061,Fraud,2025-06-19
+R068,Service Denial,2025-06-30
+R062,Delay,2025-06-30
+R006,Fraud,2025-07-11
+R019,Incorrect Recharge,2025-06-14
+R044,Rude Behavior,2025-06-30
+R087,Fraud,2025-07-10
+R039,Delay,2025-06-27
+R091,Incorrect Recharge,2025-07-11
+R049,Incorrect Recharge,2025-06-28
+R008,Delay,2025-07-07
+R016,Incorrect Recharge,2025-06-15
+R069,Service Denial,2025-06-21
+R095,Service Denial,2025-06-28
+R076,Delay,2025-06-18
+R069,Incorrect Recharge,2025-07-07
+R065,Rude Behavior,2025-07-12
+R067,Delay,2025-06-25
+R079,Rude Behavior,2025-06-25
+R054,Service Denial,2025-06-21
+R028,Incorrect Recharge,2025-06-17
+R054,Incorrect Recharge,2025-06-14
+R075,Incorrect Recharge,2025-06-23
+R049,Rude Behavior,2025-06-29
+R048,Incorrect Recharge,2025-06-20
+R056,Delay,2025-06-17
+R071,Rude Behavior,2025-06-14
+R014,Incorrect Recharge,2025-06-20
+R008,Rude Behavior,2025-07-02
+R093,Delay,2025-06-24
+R040,Delay,2025-07-03
+R033,Fraud,2025-06-18
+R087,Delay,2025-06-16
+R061,Fraud,2025-06-14
+R037,Fraud,2025-07-06
+R021,Delay,2025-06-22
+R023,Incorrect Recharge,2025-07-06
+R083,Delay,2025-07-02
+R002,Incorrect Recharge,2025-06-16
+R089,Rude Behavior,2025-06-26
+R078,Delay,2025-06-25
+R023,Fraud,2025-07-10
+R069,Delay,2025-07-06
+R081,Incorrect Recharge,2025-06-29
+R049,Delay,2025-06-22
+R087,Delay,2025-07-08
+R035,Fraud,2025-06-22
+R011,Rude Behavior,2025-06-15
+R045,Rude Behavior,2025-06-21
+R043,Delay,2025-06-17
+R092,Rude Behavior,2025-07-05
+R076,Delay,2025-07-14
+R020,Rude Behavior,2025-06-28
+R017,Fraud,2025-06-16
+R100,Fraud,2025-07-09
+R038,Rude Behavior,2025-07-02
+R069,Fraud,2025-07-02
+R098,Rude Behavior,2025-06-28
+R083,Fraud,2025-07-14
+R002,Incorrect Recharge,2025-07-09
+R038,Rude Behavior,2025-06-24
+R009,Incorrect Recharge,2025-06-19
+R048,Fraud,2025-06-22
+R006,Incorrect Recharge,2025-07-02
+R007,Incorrect Recharge,2025-06-16
+R064,Rude Behavior,2025-07-10
+R093,Delay,2025-06-30
+R040,Delay,2025-06-22
+R040,Rude Behavior,2025-06-21
+R096,Service Denial,2025-06-17
+R055,Delay,2025-07-02
+R039,Rude Behavior,2025-06-27
+R062,Incorrect Recharge,2025-07-10
+R099,Delay,2025-07-04
+R057,Delay,2025-06-24
+R086,Incorrect Recharge,2025-06-20
+R049,Incorrect Recharge,2025-07-03
+R062,Incorrect Recharge,2025-07-04
+R027,Delay,2025-06-22
+R030,Delay,2025-06-16
+R001,Fraud,2025-07-13
+R092,Rude Behavior,2025-07-08
+R067,Delay,2025-06-28
+R095,Service Denial,2025-06-15
+R079,Delay,2025-06-29
+R027,Incorrect Recharge,2025-06-30
+R047,Delay,2025-07-12
+R044,Delay,2025-07-11
+R090,Service Denial,2025-06-22
+R035,Incorrect Recharge,2025-06-16
+R048,Delay,2025-06-27
+R086,Fraud,2025-07-06
+R046,Fraud,2025-07-07
+R092,Service Denial,2025-06-19
+R035,Fraud,2025-07-03
+R038,Delay,2025-07-05
+R042,Fraud,2025-07-07
+R002,Delay,2025-06-29
+R089,Incorrect Recharge,2025-06-26
+R069,Rude Behavior,2025-06-21
+R031,Incorrect Recharge,2025-07-07
+R088,Delay,2025-06-17
+R011,Delay,2025-06-26
+R011,Rude Behavior,2025-07-07
+R042,Service Denial,2025-06-21
+R073,Delay,2025-06-16
+R065,Incorrect Recharge,2025-06-16
+R022,Service Denial,2025-06-28
+R035,Incorrect Recharge,2025-07-13
+R052,Fraud,2025-06-27
+R047,Delay,2025-07-09
+R047,Delay,2025-07-01
+R015,Delay,2025-06-26
+R011,Rude Behavior,2025-07-03
+R027,Delay,2025-06-19
+R044,Rude Behavior,2025-06-29
+R099,Delay,2025-07-09
+R016,Rude Behavior,2025-06-28
+R072,Delay,2025-06-17
+R083,Incorrect Recharge,2025-07-01
+R058,Rude Behavior,2025-06-29
+R089,Fraud,2025-06-26
+R031,Delay,2025-07-12
+R050,Rude Behavior,2025-07-14
+R093,Fraud,2025-06-16
+R050,Fraud,2025-07-14
+R040,Rude Behavior,2025-06-21
+R037,Service Denial,2025-07-05
+R059,Rude Behavior,2025-06-16
+R048,Incorrect Recharge,2025-06-25
+R042,Service Denial,2025-07-14
+R056,Service Denial,2025-06-29
+R021,Service Denial,2025-06-22
+R067,Delay,2025-06-30
+R015,Fraud,2025-07-13
+R019,Service Denial,2025-06-16
+R013,Delay,2025-07-12
+R041,Fraud,2025-06-29
+R092,Incorrect Recharge,2025-07-09
+R078,Delay,2025-06-15
+R089,Service Denial,2025-06-16
+R080,Service Denial,2025-07-13
+R031,Incorrect Recharge,2025-07-05
+R060,Incorrect Recharge,2025-07-07
+R067,Delay,2025-07-10
+R095,Delay,2025-06-22
+R046,Rude Behavior,2025-06-17
+R094,Delay,2025-07-01
+R061,Fraud,2025-06-18
+R063,Service Denial,2025-06-25
+R059,Incorrect Recharge,2025-06-14
+R052,Incorrect Recharge,2025-07-07
+R029,Service Denial,2025-07-07
+R091,Incorrect Recharge,2025-07-04
+R004,Service Denial,2025-06-18
+R081,Rude Behavior,2025-06-21
+R076,Delay,2025-06-14
+R097,Rude Behavior,2025-06-21
+R028,Delay,2025-07-04
+R040,Incorrect Recharge,2025-06-18
+R016,Fraud,2025-07-14
+R002,Service Denial,2025-06-15
+R048,Service Denial,2025-07-04
+R044,Incorrect Recharge,2025-07-03
+R026,Incorrect Recharge,2025-06-26
+R070,Service Denial,2025-07-11
+R076,Rude Behavior,2025-06-25
+R002,Rude Behavior,2025-06-15
+R079,Service Denial,2025-07-13
+R072,Delay,2025-07-10
+R080,Delay,2025-07-09
+R041,Incorrect Recharge,2025-06-18
+R070,Fraud,2025-06-15
+R080,Service Denial,2025-07-03
+R046,Incorrect Recharge,2025-06-22
+R038,Service Denial,2025-07-03
+R062,Service Denial,2025-07-05
+R088,Service Denial,2025-07-01
+R082,Delay,2025-07-06
+R053,Incorrect Recharge,2025-06-20
+R052,Delay,2025-07-03
+R022,Service Denial,2025-07-04
+R058,Service Denial,2025-06-25
+R045,Incorrect Recharge,2025-06-29
+R089,Incorrect Recharge,2025-06-21
+R088,Incorrect Recharge,2025-07-08
+R061,Service Denial,2025-07-06
+R087,Rude Behavior,2025-07-02
+R064,Fraud,2025-06-29
+R096,Rude Behavior,2025-07-08
+R072,Incorrect Recharge,2025-07-05
+R071,Incorrect Recharge,2025-07-14
+R054,Service Denial,2025-07-05
+R085,Rude Behavior,2025-07-08
+R064,Service Denial,2025-06-27
+R010,Service Denial,2025-07-05
+R049,Service Denial,2025-07-02
+R047,Incorrect Recharge,2025-06-28
+R097,Fraud,2025-07-03
+R079,Delay,2025-07-06
+R029,Incorrect Recharge,2025-06-17
+R001,Service Denial,2025-07-10
+R082,Rude Behavior,2025-07-03
+R024,Fraud,2025-06-15
+R075,Service Denial,2025-07-02
+R006,Rude Behavior,2025-07-02
+R098,Delay,2025-07-02
+R071,Incorrect Recharge,2025-07-01
+R002,Service Denial,2025-06-29
+R011,Service Denial,2025-07-12
+R028,Delay,2025-07-11
+R028,Delay,2025-06-22
+R084,Delay,2025-06-15
+R095,Delay,2025-06-15
+R071,Incorrect Recharge,2025-07-14
+R065,Delay,2025-07-02
+R023,Incorrect Recharge,2025-07-04
+R027,Fraud,2025-06-16
+R058,Rude Behavior,2025-07-13
+R058,Service Denial,2025-07-08
+R009,Fraud,2025-06-25
+R073,Rude Behavior,2025-07-09
+R077,Delay,2025-06-26
+R020,Rude Behavior,2025-06-18
+R026,Incorrect Recharge,2025-06-22
+R019,Service Denial,2025-07-06
+R057,Rude Behavior,2025-07-13
+R041,Service Denial,2025-06-24
+R041,Rude Behavior,2025-06-26
+R066,Service Denial,2025-07-03
+R020,Service Denial,2025-07-13
+R073,Service Denial,2025-07-11
+R051,Incorrect Recharge,2025-07-06
+R006,Rude Behavior,2025-07-01
+R023,Service Denial,2025-06-16
+R038,Service Denial,2025-06-15
+R057,Fraud,2025-06-19
+R054,Incorrect Recharge,2025-06-23
+R027,Fraud,2025-06-24
+R076,Delay,2025-07-04
+R083,Fraud,2025-06-21
+R075,Incorrect Recharge,2025-06-28
+R080,Rude Behavior,2025-06-22
+R089,Incorrect Recharge,2025-06-27
+R012,Service Denial,2025-06-17
+R062,Service Denial,2025-06-17
+R046,Rude Behavior,2025-07-05
+R096,Service Denial,2025-07-07
+R001,Rude Behavior,2025-07-13
+R065,Rude Behavior,2025-06-26
+R076,Fraud,2025-07-02
+R092,Fraud,2025-07-12
+R041,Fraud,2025-06-18
+R025,Fraud,2025-07-04
+R057,Service Denial,2025-06-15
+R098,Delay,2025-07-11
+R054,Rude Behavior,2025-06-15
+R057,Service Denial,2025-06-22
+R070,Delay,2025-07-03
+R021,Rude Behavior,2025-06-18
+R071,Rude Behavior,2025-07-02
+R057,Rude Behavior,2025-06-25
+R036,Rude Behavior,2025-06-17
+R056,Incorrect Recharge,2025-06-26
+R019,Service Denial,2025-06-21
+R094,Service Denial,2025-06-30
+R079,Service Denial,2025-06-20
+R091,Incorrect Recharge,2025-07-01
+R006,Fraud,2025-06-30
+R038,Delay,2025-07-03
+R015,Delay,2025-06-17
+R099,Fraud,2025-06-30
+R023,Incorrect Recharge,2025-07-09
+R024,Fraud,2025-07-03
+R015,Incorrect Recharge,2025-07-03
+R084,Delay,2025-06-29
+R099,Incorrect Recharge,2025-07-05
+R051,Fraud,2025-06-17
+R089,Service Denial,2025-07-13
+R087,Delay,2025-07-10
+R046,Delay,2025-06-16
+R064,Service Denial,2025-06-24
+R006,Fraud,2025-06-28
+R048,Delay,2025-06-30
+R028,Rude Behavior,2025-06-19
+R081,Delay,2025-07-04
+R039,Incorrect Recharge,2025-06-20
+R072,Service Denial,2025-07-13
+R005,Fraud,2025-06-30
+R072,Rude Behavior,2025-07-13
+R033,Delay,2025-06-28
+R016,Service Denial,2025-07-03
+R052,Delay,2025-07-10
+R006,Rude Behavior,2025-06-20
+R049,Delay,2025-07-14
+R037,Fraud,2025-07-12
+R094,Incorrect Recharge,2025-06-21
+R079,Delay,2025-06-25
+R061,Incorrect Recharge,2025-06-28
+R083,Delay,2025-06-16
+R006,Delay,2025-06-29
+R073,Rude Behavior,2025-07-13
+R015,Delay,2025-07-07
+R024,Incorrect Recharge,2025-06-27
+R044,Rude Behavior,2025-07-04
+R084,Delay,2025-06-25
+R008,Delay,2025-07-12
+R077,Fraud,2025-06-20
+R083,Delay,2025-06-19
+R023,Incorrect Recharge,2025-06-30
+R033,Rude Behavior,2025-07-05
+R085,Service Denial,2025-06-21
+R029,Delay,2025-06-21
+R017,Rude Behavior,2025-07-10
+R010,Fraud,2025-07-05
+R031,Fraud,2025-06-15
+R061,Delay,2025-07-06
+R048,Rude Behavior,2025-06-16
+R072,Fraud,2025-07-01
+R041,Rude Behavior,2025-06-22
+R017,Service Denial,2025-07-03
+R017,Service Denial,2025-07-11
+R038,Fraud,2025-06-23
+R029,Service Denial,2025-06-15
+R017,Delay,2025-07-13
+R100,Fraud,2025-06-28
+R086,Fraud,2025-06-19
+R008,Service Denial,2025-07-12
+R046,Service Denial,2025-06-29
+R006,Fraud,2025-07-01
+R043,Rude Behavior,2025-07-09
+R058,Incorrect Recharge,2025-06-26
+R042,Rude Behavior,2025-07-03
+R057,Fraud,2025-07-11
+R038,Delay,2025-06-26
+R031,Delay,2025-06-18
+R027,Delay,2025-07-08
+R012,Service Denial,2025-07-14
+R099,Service Denial,2025-06-19
+R052,Service Denial,2025-06-22
+R014,Delay,2025-06-20
+R053,Service Denial,2025-06-21
+R087,Rude Behavior,2025-07-08
+R013,Service Denial,2025-06-29
+R002,Service Denial,2025-06-19
+R020,Fraud,2025-07-04
+R096,Fraud,2025-06-30
+R058,Fraud,2025-06-27
+R003,Fraud,2025-07-12
+R014,Incorrect Recharge,2025-06-26
+R055,Service Denial,2025-07-04
+R082,Fraud,2025-07-07
+R009,Incorrect Recharge,2025-07-12
+R085,Fraud,2025-07-10
+R065,Rude Behavior,2025-07-07
+R002,Service Denial,2025-07-13
+R092,Rude Behavior,2025-06-20
+R092,Delay,2025-06-17
+R047,Service Denial,2025-06-26
+R017,Incorrect Recharge,2025-06-17
+R063,Delay,2025-07-14
+R011,Rude Behavior,2025-07-06
+R036,Service Denial,2025-07-03
+R096,Incorrect Recharge,2025-06-14
+R082,Service Denial,2025-07-04
+R074,Fraud,2025-07-06
+R072,Service Denial,2025-06-17
+R075,Rude Behavior,2025-07-10
+R066,Incorrect Recharge,2025-06-16
+R062,Delay,2025-07-12
+R086,Rude Behavior,2025-06-22
+R048,Service Denial,2025-06-21
+R073,Delay,2025-07-13
+R028,Delay,2025-06-29
+R070,Fraud,2025-06-14
+R082,Fraud,2025-06-22
+R081,Incorrect Recharge,2025-06-15
+R016,Service Denial,2025-07-08
+R018,Rude Behavior,2025-06-24
+R026,Incorrect Recharge,2025-07-09
+R079,Delay,2025-07-04
+R069,Rude Behavior,2025-07-12
+R099,Delay,2025-07-10
+R069,Delay,2025-07-01
+R060,Delay,2025-06-14
+R072,Rude Behavior,2025-07-10
+R037,Fraud,2025-07-14
+R022,Service Denial,2025-06-14
+R064,Fraud,2025-07-06
+R043,Rude Behavior,2025-06-22
+R058,Fraud,2025-06-30
+R030,Service Denial,2025-06-25
+R066,Incorrect Recharge,2025-07-02
+R090,Incorrect Recharge,2025-06-30
+R099,Fraud,2025-06-29
+R055,Service Denial,2025-07-10
+R054,Delay,2025-06-20
+R098,Service Denial,2025-07-14
+R013,Fraud,2025-06-20
+R057,Delay,2025-06-26
+R064,Rude Behavior,2025-07-11
+R045,Fraud,2025-06-27
+R050,Delay,2025-06-17
+R060,Rude Behavior,2025-07-01
+R079,Delay,2025-06-27
+R098,Fraud,2025-06-17
+R057,Fraud,2025-06-15
+R066,Incorrect Recharge,2025-06-14
+R098,Service Denial,2025-06-27
+R006,Service Denial,2025-07-03
+R058,Fraud,2025-07-07
+R094,Fraud,2025-07-10
+R062,Delay,2025-06-19
+R096,Fraud,2025-06-26
+R098,Fraud,2025-06-29
+R099,Incorrect Recharge,2025-06-21
+R024,Rude Behavior,2025-06-26
+R076,Rude Behavior,2025-07-11
+R071,Service Denial,2025-06-26
+R052,Fraud,2025-07-03
+R081,Incorrect Recharge,2025-06-23
+R098,Fraud,2025-06-20
+R062,Service Denial,2025-06-16
+R046,Incorrect Recharge,2025-06-28
+R074,Service Denial,2025-07-12
+R015,Delay,2025-07-01
+R002,Rude Behavior,2025-06-24
+R048,Delay,2025-07-03
+R017,Fraud,2025-07-03
+R081,Service Denial,2025-06-20
+R082,Rude Behavior,2025-06-25
+R064,Rude Behavior,2025-06-21
+R044,Rude Behavior,2025-06-26
+R037,Incorrect Recharge,2025-07-06
+R067,Incorrect Recharge,2025-06-14
+R074,Rude Behavior,2025-07-03
+R018,Incorrect Recharge,2025-07-03
+R094,Incorrect Recharge,2025-06-19
+R067,Fraud,2025-07-07
+R080,Fraud,2025-06-19
+R098,Rude Behavior,2025-06-19
+R071,Delay,2025-07-06
+R007,Fraud,2025-07-06
+R005,Rude Behavior,2025-07-06
+R093,Incorrect Recharge,2025-06-19
+R061,Rude Behavior,2025-06-26
+R020,Service Denial,2025-07-01
+R027,Delay,2025-06-20
+R021,Service Denial,2025-06-19
+R047,Rude Behavior,2025-06-29
+R042,Rude Behavior,2025-07-05
+R094,Service Denial,2025-06-25
+R086,Rude Behavior,2025-06-23
+R058,Delay,2025-06-27
+R051,Fraud,2025-06-23
+R054,Delay,2025-06-22
+R062,Rude Behavior,2025-06-17
+R046,Fraud,2025-07-08
+R038,Incorrect Recharge,2025-06-25
+R052,Delay,2025-07-13
+R035,Delay,2025-07-14
+R097,Rude Behavior,2025-06-27
+R037,Delay,2025-06-28
+R035,Rude Behavior,2025-07-02
+R016,Incorrect Recharge,2025-06-23
+R062,Delay,2025-07-06
+R045,Incorrect Recharge,2025-07-01
+R092,Incorrect Recharge,2025-06-29
+R056,Service Denial,2025-06-17
+R044,Fraud,2025-07-05
+R074,Fraud,2025-06-26
+R018,Incorrect Recharge,2025-07-09
+R068,Incorrect Recharge,2025-07-13
+R083,Delay,2025-07-12
+R049,Service Denial,2025-06-29
+R044,Fraud,2025-06-27
+R001,Rude Behavior,2025-07-09
+R057,Fraud,2025-06-27
+R016,Service Denial,2025-06-19
+R020,Rude Behavior,2025-07-13
+R085,Fraud,2025-06-25
+R098,Delay,2025-07-07
+R071,Fraud,2025-07-10
+R073,Service Denial,2025-07-14
+R009,Delay,2025-06-18
+R083,Fraud,2025-06-26
+R001,Service Denial,2025-07-05
+R010,Service Denial,2025-06-17
+R021,Rude Behavior,2025-07-08
+R018,Rude Behavior,2025-07-01
+R002,Incorrect Recharge,2025-07-10
+R025,Rude Behavior,2025-07-12
+R046,Delay,2025-06-20
+R099,Fraud,2025-07-10
+R038,Fraud,2025-06-17
+R007,Fraud,2025-07-14
+R020,Delay,2025-07-11
+R089,Service Denial,2025-06-28
+R019,Delay,2025-06-21
+R017,Fraud,2025-06-29
+R025,Incorrect Recharge,2025-06-25
+R002,Rude Behavior,2025-06-23
+R088,Service Denial,2025-07-09
+R019,Service Denial,2025-06-15
+R025,Fraud,2025-07-02
+R060,Rude Behavior,2025-07-14
+R012,Fraud,2025-06-22
+R081,Fraud,2025-07-02
+R034,Fraud,2025-07-01
+R050,Delay,2025-07-01
+R049,Incorrect Recharge,2025-06-27
+R012,Fraud,2025-07-14
+R097,Service Denial,2025-07-06
+R074,Delay,2025-06-30
+R015,Fraud,2025-06-20
+R031,Delay,2025-06-30
+R081,Delay,2025-07-08
+R051,Incorrect Recharge,2025-06-30
+R061,Rude Behavior,2025-07-01
+R089,Rude Behavior,2025-07-01
+R086,Service Denial,2025-06-19
+R086,Rude Behavior,2025-07-02
+R039,Incorrect Recharge,2025-06-15
+R045,Delay,2025-06-19
+R031,Incorrect Recharge,2025-06-21
+R033,Fraud,2025-06-30
+R072,Delay,2025-07-12
+R094,Service Denial,2025-06-14
+R094,Service Denial,2025-06-23
+R042,Incorrect Recharge,2025-06-23
+R053,Incorrect Recharge,2025-06-18
+R038,Fraud,2025-06-27
+R067,Rude Behavior,2025-06-23
+R052,Incorrect Recharge,2025-06-17
+R098,Rude Behavior,2025-06-18
+R086,Service Denial,2025-07-08
+R065,Service Denial,2025-06-21
+R063,Fraud,2025-07-05
+R007,Rude Behavior,2025-07-02
+R060,Incorrect Recharge,2025-06-28
+R080,Rude Behavior,2025-06-24
+R011,Rude Behavior,2025-06-17
+R039,Incorrect Recharge,2025-06-22
+R083,Incorrect Recharge,2025-06-29
+R098,Fraud,2025-07-13
+R007,Fraud,2025-06-22
+R047,Incorrect Recharge,2025-06-28
+R052,Fraud,2025-06-22
+R055,Rude Behavior,2025-07-14
+R078,Fraud,2025-06-20
+R004,Fraud,2025-06-22
+R069,Delay,2025-06-26
+R072,Incorrect Recharge,2025-06-29
+R064,Incorrect Recharge,2025-06-30
+R056,Service Denial,2025-07-01
+R075,Rude Behavior,2025-06-20
+R071,Delay,2025-07-08
+R070,Rude Behavior,2025-06-18
+R088,Fraud,2025-07-13
+R087,Fraud,2025-06-21
+R004,Rude Behavior,2025-07-01
+R030,Service Denial,2025-06-16
+R077,Incorrect Recharge,2025-06-24
+R042,Rude Behavior,2025-06-27
+R061,Rude Behavior,2025-06-23
+R016,Rude Behavior,2025-06-22
+R013,Delay,2025-07-03
+R041,Incorrect Recharge,2025-06-15
+R097,Incorrect Recharge,2025-06-24
+R097,Fraud,2025-07-08
+R036,Incorrect Recharge,2025-07-08
+R095,Rude Behavior,2025-06-30
+R044,Service Denial,2025-06-30
+R033,Delay,2025-06-22
+R071,Delay,2025-07-10
+R066,Service Denial,2025-06-20
+R077,Fraud,2025-06-19
+R036,Delay,2025-06-21
+R043,Delay,2025-06-16
+R053,Service Denial,2025-07-09
+R037,Fraud,2025-06-15
+R061,Rude Behavior,2025-07-03
+R033,Fraud,2025-06-27
+R043,Delay,2025-07-06
+R087,Service Denial,2025-07-01
+R054,Delay,2025-06-27
+R073,Rude Behavior,2025-06-28
+R091,Fraud,2025-06-16
+R012,Delay,2025-07-01
+R019,Incorrect Recharge,2025-06-26
+R038,Delay,2025-07-14
+R001,Delay,2025-06-18
+R021,Delay,2025-06-23
+R043,Incorrect Recharge,2025-06-22
+R067,Delay,2025-06-19
+R040,Fraud,2025-06-21
+R004,Fraud,2025-06-28
+R013,Incorrect Recharge,2025-06-17
+R069,Incorrect Recharge,2025-06-15
+R057,Delay,2025-06-17
+R017,Incorrect Recharge,2025-07-03
+R062,Rude Behavior,2025-06-15
+R098,Rude Behavior,2025-06-29
+R096,Service Denial,2025-06-21
+R035,Fraud,2025-06-14
+R064,Fraud,2025-07-11
+R094,Delay,2025-07-03
+R066,Delay,2025-07-11
+R002,Service Denial,2025-06-16
+R040,Delay,2025-06-26
+R024,Incorrect Recharge,2025-06-30
+R042,Rude Behavior,2025-07-12
+R044,Rude Behavior,2025-06-23
+R068,Fraud,2025-06-22
+R019,Incorrect Recharge,2025-06-15
+R010,Incorrect Recharge,2025-06-19
+R051,Rude Behavior,2025-07-13
+R096,Service Denial,2025-07-09
+R087,Delay,2025-06-24
+R086,Rude Behavior,2025-06-21
+R054,Incorrect Recharge,2025-07-08
+R097,Service Denial,2025-06-22
+R067,Delay,2025-06-19
+R002,Delay,2025-07-12
+R090,Fraud,2025-06-26
+R043,Service Denial,2025-07-03
+R009,Rude Behavior,2025-06-17
+R049,Service Denial,2025-07-14
+R002,Fraud,2025-06-27
+R044,Fraud,2025-06-30
+R079,Rude Behavior,2025-07-02
+R060,Rude Behavior,2025-06-30
+R027,Service Denial,2025-06-22
+R023,Service Denial,2025-06-24
+R089,Rude Behavior,2025-06-30
+R053,Rude Behavior,2025-07-09
+R015,Delay,2025-06-28
+R098,Service Denial,2025-07-02
+R004,Incorrect Recharge,2025-07-11
+R038,Rude Behavior,2025-06-19
+R021,Incorrect Recharge,2025-06-30
+R094,Delay,2025-06-24
+R035,Service Denial,2025-06-29
+R019,Delay,2025-07-13
+R006,Incorrect Recharge,2025-06-27
+R051,Rude Behavior,2025-07-07
+R071,Delay,2025-06-29
+R005,Delay,2025-07-09
+R074,Incorrect Recharge,2025-07-07
+R038,Delay,2025-06-17
+R099,Service Denial,2025-06-16
+R069,Delay,2025-07-01
+R038,Incorrect Recharge,2025-07-01
+R090,Rude Behavior,2025-06-25
+R070,Service Denial,2025-07-03
+R026,Fraud,2025-07-10
+R045,Delay,2025-07-10
+R076,Rude Behavior,2025-07-02
+R048,Fraud,2025-07-02
+R019,Incorrect Recharge,2025-06-18
+R023,Fraud,2025-06-29
+R084,Delay,2025-07-01
+R090,Rude Behavior,2025-06-25
+R056,Fraud,2025-06-27
+R085,Rude Behavior,2025-07-06
+R076,Service Denial,2025-06-30
+R083,Service Denial,2025-06-25
+R060,Service Denial,2025-06-23
+R093,Delay,2025-06-16
+R013,Delay,2025-07-10
+R005,Delay,2025-06-24
+R002,Rude Behavior,2025-06-15
+R055,Incorrect Recharge,2025-07-05
+R046,Incorrect Recharge,2025-07-11
+R085,Incorrect Recharge,2025-06-27
+R057,Fraud,2025-06-25
+R056,Rude Behavior,2025-06-17
+R075,Incorrect Recharge,2025-07-10
+R056,Delay,2025-06-16
+R014,Delay,2025-06-14
+R050,Fraud,2025-06-26
+R002,Delay,2025-07-10
+R041,Service Denial,2025-07-01
+R067,Fraud,2025-07-08
+R071,Service Denial,2025-07-11
+R036,Service Denial,2025-06-23
+R035,Rude Behavior,2025-07-05
+R011,Delay,2025-06-27
+R042,Delay,2025-06-15
+R018,Service Denial,2025-07-11
+R003,Delay,2025-07-12
+R057,Delay,2025-06-18
+R042,Incorrect Recharge,2025-06-18
+R008,Fraud,2025-07-09
+R055,Rude Behavior,2025-06-28
+R024,Delay,2025-06-23
+R089,Fraud,2025-07-01
+R091,Incorrect Recharge,2025-07-09
+R072,Incorrect Recharge,2025-07-08
+R065,Delay,2025-07-10
+R014,Service Denial,2025-07-01
+R074,Incorrect Recharge,2025-07-10
+R018,Rude Behavior,2025-07-04
+R046,Rude Behavior,2025-06-24
+R050,Rude Behavior,2025-06-22
+R092,Rude Behavior,2025-06-25
+R026,Fraud,2025-07-02
+R028,Fraud,2025-07-13
+R023,Rude Behavior,2025-06-24
+R040,Rude Behavior,2025-07-08
+R050,Rude Behavior,2025-06-29
+R087,Delay,2025-06-14
+R079,Service Denial,2025-06-17
+R073,Rude Behavior,2025-07-05
+R042,Fraud,2025-06-17
+R078,Rude Behavior,2025-06-30
+R073,Service Denial,2025-07-01
+R068,Delay,2025-07-07
+R049,Fraud,2025-07-03
+R063,Service Denial,2025-06-15
+R069,Fraud,2025-07-12
+R071,Rude Behavior,2025-06-25
+R076,Delay,2025-06-14
+R068,Delay,2025-07-08
+R070,Fraud,2025-06-14
+R026,Fraud,2025-06-24
+R077,Incorrect Recharge,2025-06-18
+R033,Delay,2025-07-02
+R038,Fraud,2025-06-26
+R074,Incorrect Recharge,2025-06-30
+R045,Delay,2025-07-08
+R003,Delay,2025-07-04
+R087,Incorrect Recharge,2025-06-23
+R097,Rude Behavior,2025-07-11
+R074,Fraud,2025-07-12
+R058,Incorrect Recharge,2025-06-30
+R050,Rude Behavior,2025-07-01
+R019,Incorrect Recharge,2025-06-20
+R031,Service Denial,2025-06-23
+R012,Delay,2025-07-14
+R026,Service Denial,2025-07-10
+R084,Fraud,2025-07-08
+R097,Service Denial,2025-07-03
+R035,Service Denial,2025-06-19
+R029,Rude Behavior,2025-07-09
+R052,Fraud,2025-07-09
+R001,Incorrect Recharge,2025-06-30
+R037,Service Denial,2025-06-28
+R075,Incorrect Recharge,2025-07-06
+R060,Service Denial,2025-07-01
+R055,Fraud,2025-07-02
+R069,Delay,2025-07-02
+R005,Rude Behavior,2025-07-08
+R074,Fraud,2025-06-22
+R020,Rude Behavior,2025-06-29
+R062,Delay,2025-06-19
+R048,Fraud,2025-06-16
+R033,Service Denial,2025-07-10
+R068,Fraud,2025-06-29
+R088,Rude Behavior,2025-06-20
+R058,Fraud,2025-06-26
+R024,Rude Behavior,2025-06-25
+R092,Fraud,2025-07-05
+R094,Service Denial,2025-06-24
+R081,Service Denial,2025-06-16
+R084,Service Denial,2025-07-04
+R067,Service Denial,2025-07-06
+R037,Delay,2025-06-23
+R003,Delay,2025-07-10
+R078,Fraud,2025-07-02
+R086,Incorrect Recharge,2025-06-16
+R054,Delay,2025-07-11
+R062,Service Denial,2025-07-05
+R055,Service Denial,2025-07-11
+R024,Incorrect Recharge,2025-07-05
+R001,Fraud,2025-06-15
+R094,Incorrect Recharge,2025-07-09
+R021,Service Denial,2025-07-09
+R062,Fraud,2025-07-10
+R015,Incorrect Recharge,2025-07-10
+R045,Incorrect Recharge,2025-06-24
+R024,Delay,2025-07-01
+R043,Delay,2025-06-20
+R061,Rude Behavior,2025-07-12
+R027,Fraud,2025-06-28
+R027,Fraud,2025-07-05
+R088,Delay,2025-07-04
+R026,Incorrect Recharge,2025-06-17
+R050,Service Denial,2025-06-20
+R049,Service Denial,2025-06-15
+R081,Fraud,2025-06-28
+R004,Fraud,2025-07-04
+R088,Delay,2025-06-25
+R059,Incorrect Recharge,2025-06-15
+R049,Incorrect Recharge,2025-06-25
+R083,Fraud,2025-06-25
+R093,Rude Behavior,2025-07-01
+R039,Rude Behavior,2025-07-06
+R097,Fraud,2025-07-06
+R083,Rude Behavior,2025-07-11
+R020,Fraud,2025-06-26
+R076,Delay,2025-07-01
+R022,Incorrect Recharge,2025-06-23
+R037,Fraud,2025-06-30
+R085,Incorrect Recharge,2025-06-29
+R048,Delay,2025-06-24
+R071,Rude Behavior,2025-06-23
+R055,Service Denial,2025-07-11
+R020,Service Denial,2025-07-11
+R066,Rude Behavior,2025-06-23
+R080,Fraud,2025-06-25
+R098,Incorrect Recharge,2025-06-20
+R042,Incorrect Recharge,2025-07-07
+R081,Delay,2025-06-17
+R043,Rude Behavior,2025-06-25
+R059,Fraud,2025-06-30
+R016,Rude Behavior,2025-06-16
+R033,Service Denial,2025-07-02
