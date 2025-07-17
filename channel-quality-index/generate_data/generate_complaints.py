@@ -23,7 +23,7 @@ def generate_complaints(num_entries=1000):
 
     df = pd.DataFrame(data)
     df.to_csv(os.path.join(RAW_PATH, "complaints.csv"), index=False)
-    print(f"✅ {len(df)} complaints generated.")
+    print(f" {len(df)} complaints generated.")
 
 if __name__ == "__main__":
     generate_complaints()
