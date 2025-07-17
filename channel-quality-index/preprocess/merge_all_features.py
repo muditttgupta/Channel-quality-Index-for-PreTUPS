@@ -28,4 +28,4 @@ df['cqi_score'] = MinMaxScaler().fit_transform(raw_cqi.values.reshape(-1, 1))
 
 # Save
 df.to_csv(os.path.join(MERGED_PATH, 'retailer_feature_matrix.csv'), index=False)
-print("✅ Updated merged feature matrix with penalized CQI")
+print("Updated merged feature matrix with penalized CQI")
