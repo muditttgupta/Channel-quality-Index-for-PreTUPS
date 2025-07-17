@@ -47,10 +47,10 @@ ChannelQualityIndex/
 │
 ├── generate_data/
 │   ├── generate_transactions.py
-│   ├── generate_feedback.py
-│   ├── generate_fraud_indicators.py
-│   ├── generate_revenue.py
-│   └── generate_retailers.py
+│   ├── generate_feedback_logs.py
+│   ├── generate_sims_logs.py
+│   ├── generate_complaints.py
+│   └── generate_retailer_profiles.py
 │
 ├── models/
 │   ├── clustering_model.py
@@ -64,11 +64,11 @@ ChannelQualityIndex/
 │   └── run_pipeline.py
 │
 ├── preprocess/
-│   ├── preprocess_feedback.py
-│   ├── preprocess_fraud_indicators.py
-│   ├── preprocess_revenue.py
-│   ├── preprocess_retailers.py
-│   └── preprocess_transactions.py
+│   ├── feature_feedback.py
+│   ├── feature_fraud.py
+│   ├── feature_performance.py
+│   ├── merge_all_features.py
+│   └── time_series_engineer.py
 │
 ├── reports/
 │   ├── generate_summary.py
