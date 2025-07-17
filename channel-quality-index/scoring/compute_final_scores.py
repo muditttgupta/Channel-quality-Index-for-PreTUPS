@@ -17,7 +17,7 @@ def compute_scores(input_path, output_path):
     )
 
     df.to_csv(output_path, index=False)
-    print(f"✅ Final CQI scores written to {output_path}")
+    print(f"Final CQI scores written to {output_path}")
 
 if __name__ == "__main__":
     input_path = "../data/merged/retailer_feature_matrix.csv"
