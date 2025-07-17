@@ -20,8 +20,8 @@ df['channel_quality_score'] = (
 # Save only scores (optional file)
 df_scores = df[['retailer_id', 'channel_quality_score']]
 df_scores.to_csv(os.path.join(PROCESSED_PATH, 'retailer_scores.csv'), index=False)
-print("✅ Channel Quality Scores saved to retailer_scores.csv")
+print("Channel Quality Scores saved to retailer_scores.csv")
 
 # Also update the main feature matrix with the score
 df.to_csv(os.path.join(MERGED_PATH, 'retailer_feature_matrix.csv'), index=False)
-print("✅ Final feature matrix updated with CQI scores.")
+print("Final feature matrix updated with CQI scores.")
