@@ -12,7 +12,7 @@ st.set_page_config(layout="wide")
 st.title(" Channel Quality Index Dashboard")
 
 # === Metrics Summary ===
-st.subheader("🔍 Summary Overview")
+st.subheader(" Summary Overview")
 col1, col2, col3 = st.columns(3)
 col1.metric("Total Retailers", features.shape[0])
 col2.metric("Clusters", features['cluster_label'].nunique())
