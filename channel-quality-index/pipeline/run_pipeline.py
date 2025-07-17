@@ -12,7 +12,7 @@ def clean_csv_folders(folders):
     for folder in folders:
         for file in glob.glob(os.path.join(folder, "*.csv")):
             os.remove(file)
-    print("✅ All previous CSVs deleted.\n")
+    print("All previous CSVs deleted.\n")
 
 # ------------------------------
 # RUN PYTHON SCRIPT SEQUENTIALLY
@@ -21,7 +21,7 @@ def run_script(script_path):
     print(f"▶️ Running: {script_path}")
     try:
         subprocess.run(["python3", script_path], check=True)
-        print(f"✅ Completed: {script_path}\n")
+        print(f"Completed: {script_path}\n")
     except subprocess.CalledProcessError:
         print(f"❌ Failed at step: {script_path}")
         exit(1)
@@ -35,7 +35,7 @@ def run_notebook(notebook_path):
         nb = nbformat.read(f, as_version=4)
         ep = ExecutePreprocessor(timeout=600, kernel_name="python3")
         ep.preprocess(nb, {'metadata': {'path': os.path.dirname(notebook_path)}})
-    print("✅ Notebook executed.\n")
+    print("Notebook executed.\n")
 
 # ------------------------------
 # MAIN PIPELINE RUN
@@ -72,4 +72,4 @@ if __name__ == "__main__":
     for script in sorted(glob.glob("../scoring/*.py")):
         run_script(script)
 
-    print("🎉 Full pipeline completed successfully!")
+    print("Full pipeline completed successfully!")
