@@ -205,3 +205,37 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python basics
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Output data
+data/raw/
+data/processed/
+data/merged/
+data/reports/
+
+# Misc
+*.bak
