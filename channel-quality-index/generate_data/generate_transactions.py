@@ -26,7 +26,7 @@ def generate_dummy_transactions(num_retailers=100, days=20):
 
     df = pd.DataFrame(data)
     df.to_csv(os.path.join(RAW_PATH, "transactions.csv"), index=False)
-    print(f"✅ {len(df)} transactions generated.")
+    print(f"{len(df)} transactions generated.")
 
 if __name__ == "__main__":
     generate_dummy_transactions()
