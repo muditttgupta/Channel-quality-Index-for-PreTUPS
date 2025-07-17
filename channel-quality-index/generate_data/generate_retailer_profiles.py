@@ -22,7 +22,7 @@ def generate_retailer_profiles(num_retailers=100):
 
     df = pd.DataFrame(data)
     df.to_csv(os.path.join(RAW_PATH, "retailer_profiles.csv"), index=False)
-    print(f"✅ {len(df)} retailer profiles generated.")
+    print(f" {len(df)} retailer profiles generated.")
 
 if __name__ == "__main__":
     generate_retailer_profiles()
