@@ -31,4 +31,4 @@ df['feedback_score'] = (0.6 * df['sentiment_score']) + (0.4 * (1 - df['complaint
 
 # Save
 df.to_csv(os.path.join(PROCESSED_PATH, 'retailer_feedback_nlp.csv'), index=False)
-print("✅ retailer_feedback_nlp.csv created.")
+print("retailer_feedback_nlp.csv created.")
