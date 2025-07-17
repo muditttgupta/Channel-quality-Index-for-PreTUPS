@@ -24,7 +24,7 @@ def generate_feedback_logs(num_entries=1000):
 
     df = pd.DataFrame(data)
     df.to_csv(os.path.join(RAW_PATH, "feedback_logs.csv"), index=False)
-    print(f"✅ {len(df)} feedback entries generated.")
+    print(f" {len(df)} feedback entries generated.")
 
 if __name__ == "__main__":
     generate_feedback_logs()
