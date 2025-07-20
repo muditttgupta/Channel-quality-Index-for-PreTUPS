@@ -156,7 +156,7 @@ This project was developed for PretUPS (a product of Comviva Technologies, a Tec
 ## 👨‍💻 Author
 
 Mudit Gupta
-AI/ML Intern, DYMRA TECH
+AI/ML Research & Development Intern, Comviva Technologies
 LinkedIn: linkedin.com/in/muditgupta
 GitHub: github.com/yourusername
 
