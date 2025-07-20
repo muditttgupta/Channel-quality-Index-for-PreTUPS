@@ -127,11 +127,6 @@ Clustering is done based on the final weighted CQI score to keep it interpretabl
 	•	eda_final.ipynb: Visual exploration of retailer metrics, scores, and clustering distribution.
 	•	fraud_inspection.ipynb: Drill-down analysis of fraud scores and risky cluster behavior.
 
-📸 Recommended Screenshots for GitHub
-	•	Cluster distribution pie chart from eda_final.ipynb
-	•	Fraud risk distribution plot
-	•	Final Streamlit dashboard summary
-
  ---
 
  ## 📊 Streamlit Dashboard
